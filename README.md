@@ -1,2 +1,4 @@
 # phpexercises
-Solutions to eexercises at phpexercises.com
+Solutions to exercises at phpexercises.com
+
+Probably going to make each exercise it's own folder.
